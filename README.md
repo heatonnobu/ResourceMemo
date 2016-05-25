@@ -18,3 +18,8 @@ qq号可以使用`,`分隔，一次查询多个qq号
 使用pysvn库读取svn日志记录
 
 pysvn文档地址[http://pysvn.tigris.org/docs/pysvn_prog_ref.html](http://pysvn.tigris.org/docs/pysvn_prog_ref.html)
+
+#### test.py
+监控chageci web api是否正常运行，如果不正常，通过pushbullet接口推送通知
+
+pushbullet开发文档地址[https://docs.pushbullet.com/](https://docs.pushbullet.com/)
